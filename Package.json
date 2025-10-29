@@ -1,0 +1,22 @@
+{
+  "name": "darkx-official",
+  "version": "1.0.0",
+  "description": "DarkX Official WhatsApp Bot - Multi Device",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "gradient-string": "^2.0.2",
+    "openai": "^4.20.0",
+    "form-data": "^4.0.0",
+    "moment": "^2.29.4"
+  },
+  "keywords": ["whatsapp-bot", "baileys", "multi-device"],
+  "author": "MrX Developer",
+  "license": "MIT"
+}
